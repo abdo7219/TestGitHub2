@@ -3,3 +3,7 @@ body{
     color: blue;
     font-weight: bold;
 }
+p{
+    background-color: aqua;
+    color: black;
+}
